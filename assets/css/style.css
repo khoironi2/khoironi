@@ -132,6 +132,13 @@ footer{
 
 @media (min-width: 992px) { 
 
+    /***Start logo***/
+.logo {
+    width: 2px;
+    height: 10px;
+    display: none;
+}
+/***End logo***/
 /***Start header***/
 
 .header img{
