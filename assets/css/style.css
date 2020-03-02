@@ -1,0 +1,254 @@
+section{
+    min-height: 220px;
+}
+
+a{
+color: black;
+}
+/**Start header**/
+.header img{
+    max-width: 100%;
+}
+
+.hello {
+    margin-top: -310px;
+    margin-left: 120px;
+}
+
+.hello p{
+    font-family: Viga;
+    
+}
+
+.hello span{
+    font-size: 30px;
+    font-family: Viga;
+    color: #3F3D56;
+}
+
+/**End header**/
+
+
+/**Start specilizing**/
+
+.specilizing {
+    margin-top: 220px;
+}
+.specilizing p{
+   
+    text-align: center;
+}
+
+
+.box {
+   padding-bottom: 40px;
+   text-align: center;
+}
+
+.box img{
+    max-width: 30%;
+}
+
+.box h6{
+    margin: 10px 70px ;
+}
+
+.drone{
+    margin-top: 50px;
+    text-align: center;
+    
+}
+
+.drone img{
+    max-width: 0%;
+       
+}
+
+/**End specilizing**/
+
+
+/**Start portfolio **/
+
+.portfolio {
+
+    text-align: center;
+    
+
+}
+
+.portfolio h2{
+    text-align: center;
+}
+
+
+.card{
+    max-width: 50%;
+    margin: 5% 24%;
+    
+
+}
+
+
+/**End portfolio **/
+
+
+
+/***Start quotes**/
+
+
+.quotes {
+    background-color: #3E3D56;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 70%;
+    font-family: Viga;
+    padding: 5% 0 ;
+}
+
+.quotes img{
+    max-width: 20%;
+    margin-bottom: 30px;
+}
+
+/***End quotes**/
+
+
+/***Start footer**/
+
+footer{
+    font-family: Viga;
+    font-size: 10px;
+    color: #3F3D56;
+}
+
+/***End footer**/
+
+
+
+
+
+
+/***Start desktop***/
+
+@media (min-width: 992px) { 
+
+/***Start header***/
+
+.header img{
+    max-width: 130%;
+    margin-left: -120px;
+}
+
+.hello {
+    margin-top: -450px;
+    margin-left: 60px;
+}
+
+.hello p{
+    font-family: Viga;
+    
+}
+
+.hello span{
+    font-size: 40px;
+    font-family: Viga;
+    color: #3F3D56;
+}
+
+/***End header***/
+
+
+/***Start specilizing***/
+
+.specilizing {
+    margin-top: 370px;
+}
+
+.specilizing p{
+   
+    text-align: center;
+}
+
+.box {
+    margin-top: 60px;
+    padding-right: 20%;
+}
+
+.box img{
+    max-width: 120px;
+}
+
+.box h6{
+    margin: -70px 130px ;
+}
+
+.drone{
+    margin-top: 150px;
+    text-align: center;
+    
+}
+
+.drone img{
+    max-width: 90%;
+}
+
+/***End specilizing***/
+
+
+/***Start portfolio***/
+
+.portfolio {
+    margin-top: 150px;
+
+}
+
+.card{
+    max-width: 100%;
+    margin: 0 0;
+
+}
+
+/***End portfolio***/
+
+
+
+
+/***Start quotes**/
+
+
+.quotes {
+    background-color: #3E3D56;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 100%;
+    font-family: Viga;
+    padding: 5% 0 ;
+}
+
+.quotes img{
+    max-width: 10%;
+    margin-bottom: 30px;
+}
+
+/***End quotes**/
+
+
+/***Start footer**/
+
+footer{
+    font-family: Viga;
+    font-size: 15px;
+    color: #3F3D56;
+}
+
+/***End footer**/
+
+
+    
+    
+    
+    
+
+}
+
+/***End desktop***/
