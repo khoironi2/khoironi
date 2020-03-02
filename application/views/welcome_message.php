@@ -42,7 +42,7 @@
 						<a class="nav-link" href="#">Contact</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="#">Test</a>
+						<a class="nav-link" href="#">Hire Me</a>
 					</li>
 
 				</ul>
